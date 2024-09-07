@@ -159,9 +159,9 @@ input, select, textarea {
 	}
 
 	h3 {
-		white-space: pre;
+	
 		font-size: 1.25em;
-		line-height: 0.75em;
+		line-height: 1.5em;
 	}
 
 	h4 {
