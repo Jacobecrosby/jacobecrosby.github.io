@@ -2562,7 +2562,7 @@ input, select, textarea {
 	}
 
 		.work-item .image {
-			margin: 0 0 1em 0;
+			margin: 0 0 1.5em 0;
 		}
 
 		.work-item h3 {
@@ -3127,7 +3127,6 @@ input, select, textarea {
 		/* Basic */
 
 			h1 {
-				white-space: pre;
 				font-size: 1.5em;
 			}
 
