@@ -2980,11 +2980,11 @@ input, select, textarea {
 	overflow: hidden; /* Clear float issues */
 	/*margin: -4rem auto 0 auto;
 	padding: 1rem 2rem 0 0;*/
-	position: absolute;
-	left: 50%;
+	position: flex;
+	left: 60%;
 	width: calc(100% - 4rem);
 	max-width: 72rem;
-	z-index: 100;
+	z-index: 95;
 }
 
 	#nav ul.divided li {
