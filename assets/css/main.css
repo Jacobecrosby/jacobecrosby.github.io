@@ -2982,7 +2982,7 @@ input, select, textarea {
 	/*margin: -4rem auto 0 auto;
 	padding: 1rem 2rem 0 0;*/
 	position: fixed;
-	right: 30%;
+	right: 70%;
 	width: calc(100% - 4rem);
 	max-width: 72rem;
 	z-index: 100;
@@ -3061,7 +3061,7 @@ input, select, textarea {
 		padding-left: 0;
 		text-transform: uppercase;
 	}
-
+/*
 		#nav ul.links li {
 			display: block;
 			padding-left: 0;
@@ -3106,7 +3106,7 @@ input, select, textarea {
 		flex-shrink: 0;
 		margin-bottom: 0;
 	}
-
+*/
 	@media screen and (max-width: 980px) {
 
 		#nav {
