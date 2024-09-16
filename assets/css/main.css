@@ -3050,6 +3050,17 @@ input, select, textarea {
 			#nav ul.links li.active a:hover {
 				color: #18bfef !important;
 			}
+			#nav ul.links li.inactive {
+				background-color: #0f0707;
+			}
+		
+				#nav ul.links li.inactive a {
+					color: #243447;
+				}
+		
+					#nav ul.links li.inactive a:hover {
+						color: #18bfef !important;
+					}
 
 	@media screen and (max-width: 980px) {
 
