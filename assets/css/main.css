@@ -2978,9 +2978,8 @@ input, select, textarea {
 	height: 4rem;
 	line-height: 4rem;
 	margin: -4rem auto 0 auto;
-	overflow: hidden;
-	padding: 0 2rem 0 0;
-	position: fixed;
+	padding: 1rem 2rem 0 0;
+	position: static;
 	left: 50%;
 	width: calc(100% - 4rem);
 	max-width: 72rem;
