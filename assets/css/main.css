@@ -2986,6 +2986,17 @@ input, select, textarea {
 	max-width: 72rem;
 	z-index: 100;
 }
+
+#nav a {
+	color: #ffffff;
+	border-bottom-color: rgba(255, 255, 255, 0.5);
+}
+
+	#nav a:hover {
+		border-bottom-color: transparent;
+		color: #18bfef !important;
+	}
+
 #nav ul.links {
 	display: -moz-flex;
 	display: -webkit-flex;
@@ -3003,11 +3014,42 @@ input, select, textarea {
 	font-weight: 900;
 	letter-spacing: 0.075em;
 	list-style: none;
-	right: 0;
 	margin-bottom: 0;
 	padding-left: 0;
 	text-transform: uppercase;
 }
+#nav ul.links li {
+	display: block;
+	padding-left: 0;
+}
+
+	#nav ul.links li a {
+		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		display: block;
+		font-size: 0.8rem;
+		outline: none;
+		padding: 0 2rem;
+	}
+
+		#nav ul.links li a:hover {
+			color: inherit !important;
+			background-color: rgba(255, 255, 255, 0.1);
+		}
+
+	#nav ul.links li.active {
+		background-color: #ffffff;
+	}
+
+		#nav ul.links li.active a {
+			color: #1e252d;
+		}
+
+			#nav ul.links li.active a:hover {
+				color: #18bfef !important;
+			}
 
 	@media screen and (max-width: 980px) {
 
