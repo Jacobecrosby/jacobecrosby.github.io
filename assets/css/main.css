@@ -2981,10 +2981,10 @@ input, select, textarea {
 	overflow: hidden;
 	padding: 0 2rem 0 0;
 	position: fixed;
-	right: 0;
+	left: 50%;
 	width: calc(100% - 4rem);
 	max-width: 72rem;
-	z-index: 2;
+	z-index: 100;
 }
 
 	#nav ul.divided li {
