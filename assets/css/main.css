@@ -2977,6 +2977,7 @@ input, select, textarea {
 	background: rgba(255, 255, 255, 0.175);
 	height: 4rem;
 	line-height: 4rem;
+	overflow: hidden; /* Clear float issues */
 	margin: -4rem auto 0 auto;
 	padding: 1rem 2rem 0 0;
 	position: static;
