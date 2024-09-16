@@ -3091,7 +3091,7 @@ input, select, textarea {
 				letter-spacing: 0.075em;
 				list-style: none;
 				margin-bottom: 0;
-				padding-left: 0;
+				padding-left: 20em;
 				text-transform: uppercase;
 			}
 	
