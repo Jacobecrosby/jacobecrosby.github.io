@@ -2987,7 +2987,7 @@ input, select, textarea {
 	max-width: 72rem;
 	z-index: 100;
 }
-
+/*
 	#nav ul.divided li {
 		border-top-color: #ffffff;
 	}
@@ -3038,7 +3038,7 @@ input, select, textarea {
 	#nav hr {
 		border-bottom-color: #ffffff;
 	}
-
+*/
 	#nav ul.links {
 		display: -moz-flex;
 		display: -webkit-flex;
