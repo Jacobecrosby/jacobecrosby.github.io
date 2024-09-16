@@ -2971,12 +2971,13 @@ input, select, textarea {
 	transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 	background-color: #ffffff;
 	color: #636363;
-	position: static;
-	width: 94em;
+	position: fixed;
+	width: 200px;
 	max-width: calc(100% - 4em);
 	padding: 1em;
+	right: 0;
 	background-color: #f7f7f7;
-	border-top-left-radius: 30em;
+	border-top-left-radius: 0.2em;
 	border-top-right-radius: 0.25em;
 	cursor: default;
 	text-align: center;
@@ -3097,7 +3098,7 @@ input, select, textarea {
 	
 				#nav ul.links li {
 					display: block;
-					padding-left: 20em;
+					padding-left: 0;
 				}
 	
 					#nav ul.links li a {
