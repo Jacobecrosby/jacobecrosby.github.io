@@ -3044,18 +3044,18 @@ input, select, textarea {
 	}
 
 		#nav ul.links li.active a {
-			color: #243447;
+			color: #21508a;
 		}
 
 			#nav ul.links li.active a:hover {
 				color: #18bfef !important;
 			}
 			#nav ul.links li.inactive {
-				background-color: #0f0707;
+				background-color: #ffffff;
 			}
 		
 				#nav ul.links li.inactive a {
-					color: #243447;
+					color: #000000;
 				}
 		
 					#nav ul.links li.inactive a:hover {
