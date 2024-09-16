@@ -3091,13 +3091,13 @@ input, select, textarea {
 				letter-spacing: 0.075em;
 				list-style: none;
 				margin-bottom: 0;
-				padding-left: 20em;
+				padding-left: 0;
 				text-transform: uppercase;
 			}
 	
 				#nav ul.links li {
 					display: block;
-					padding-left: 0;
+					padding-left: 20em;
 				}
 	
 					#nav ul.links li a {
