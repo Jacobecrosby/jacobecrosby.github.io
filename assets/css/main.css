@@ -2981,11 +2981,11 @@ input, select, textarea {
 	overflow: hidden; /* Clear float issues */
 	/*margin: -4rem auto 0 auto;
 	padding: 1rem 2rem 0 0;*/
-	position: flex;
+	position: fixed;
 	right: 30%;
 	width: calc(100% - 4rem);
 	max-width: 72rem;
-	z-index: 2;
+	z-index: 100;
 }
 
 	#nav ul.divided li {
