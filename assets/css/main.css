@@ -2970,7 +2970,7 @@ input, select, textarea {
 	display: -webkit-flex;
 	display: -ms-flex;
 	display: flex;
-	-moz-transition: -moz-transform 1s ease, opacity 1s ease;
+	/*-moz-transition: -moz-transform 1s ease, opacity 1s ease;
 	-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 	-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 	transition: transform 1s ease, opacity 1s ease;
@@ -2981,7 +2981,7 @@ input, select, textarea {
 	/*margin: -4rem auto 0 auto;
 	padding: 1rem 2rem 0 0;*/
 	position: flex;
-	left: 60%;
+	left: 30%;
 	width: calc(100% - 4rem);
 	max-width: 72rem;
 	z-index: 95;
