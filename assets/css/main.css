@@ -2985,7 +2985,7 @@ input, select, textarea {
 	right: 30%;
 	width: calc(100% - 4rem);
 	max-width: 72rem;
-	z-index: 95;
+	z-index: 2;
 }
 
 	#nav ul.divided li {
