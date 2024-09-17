@@ -3040,7 +3040,7 @@ input, select, textarea {
 		}
 
 	#nav ul.links li.active {
-		background-color: #ffffff;
+		background-color: #cfe4eb;
 	}
 
 		#nav ul.links li.active a {
@@ -3051,7 +3051,7 @@ input, select, textarea {
 				color: #18bfef !important;
 			}
 			#nav ul.links li.inactive {
-				background-color: #ffffff;
+				background-color: #cfe4eb;
 			}
 		
 				#nav ul.links li.inactive a {
