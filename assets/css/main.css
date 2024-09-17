@@ -2978,8 +2978,8 @@ input, select, textarea {
     height: 4rem;
     line-height: 4rem; 
     overflow: hidden; /* Clear float issues */
-    /*margin: -4rem auto 0 auto;
-    padding: 1rem 2rem 0 0;*/
+    margin: -4rem auto 0 auto;
+    padding: 1rem 2rem 0 0;
 	position: absolute;
 	right: 0;
 	width: calc(100% - 4rem);
@@ -3040,7 +3040,7 @@ input, select, textarea {
 		}
 
 	#nav ul.links li.active {
-		background-color: #cfe4eb;
+		background-color: #e1fcfc;
 	}
 
 		#nav ul.links li.active a {
@@ -3051,7 +3051,7 @@ input, select, textarea {
 				color: #18bfef !important;
 			}
 			#nav ul.links li.inactive {
-				background-color: #cfe4eb;
+				background-color: #befff6;
 			}
 		
 				#nav ul.links li.inactive a {
