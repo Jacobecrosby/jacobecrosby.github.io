@@ -3048,7 +3048,7 @@ input, select, textarea {
 		}
 
 			#nav ul.links li.active a:hover {
-				color: #18bfef !important;
+				color: #98ddf0 !important;
 			}
 			#nav ul.links li.inactive {
 				background-color: #82b0db;
@@ -3059,7 +3059,7 @@ input, select, textarea {
 				}
 		
 					#nav ul.links li.inactive a:hover {
-						color: #18bfef !important;
+						color: #98ddf0 !important;
 					}
 
 	@media screen and (max-width: 980px) {
