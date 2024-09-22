@@ -2970,7 +2970,6 @@ input, select, textarea {
     display: -webkit-flex;
     display: -ms-flex;
     display: flex;
-	float: right;
     -moz-transition: -moz-transform 1s ease, opacity 1s ease;
     -webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
     -ms-transition: -ms-transform 1s ease, opacity 1s ease;
@@ -2982,7 +2981,7 @@ input, select, textarea {
     /*margin: 0 auto 0 auto;
     padding: 1rem 2rem 0 0;*/
 	position: absolute;
-	right: 0;
+	right: 15ex;
 	width: calc(100% - 4rem);
 	max-width: 72rem;
 	z-index: 100;
