@@ -2981,7 +2981,7 @@ input, select, textarea {
     /*margin: 0 auto 0 auto;
     padding: 1rem 2rem 0 0;*/
 	position: absolute;
-	right: 90%;
+	right: 20%;
 	width: calc(100% - 4rem);
 	max-width: 72rem;
 	z-index: 100;
