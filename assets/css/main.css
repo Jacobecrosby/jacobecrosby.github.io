@@ -2978,9 +2978,9 @@ input, select, textarea {
     height: 4rem;
     line-height: 4rem; 
     overflow: hidden; /* Clear float issues */
-    /*margin: 0 auto 0 auto;
-    padding: 1rem 2rem 0 0;
-	position: absolute;*/
+    margin: 0;
+    padding: 0;
+	/*position: absolute;/*
 	width: 100%; /*calc(100% - 4rem);*/
 	max-width: 72rem;
 	z-index: 100;
