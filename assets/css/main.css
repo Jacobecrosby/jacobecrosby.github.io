@@ -2981,7 +2981,7 @@ input, select, textarea {
     /*margin: 0 auto 0 auto;
     padding: 1rem 2rem 0 0;*/
 	position: absolute;
-	right: 15ex;
+	right: 0;
 	width: calc(100% - 4rem);
 	max-width: 72rem;
 	z-index: 100;
@@ -3002,6 +3002,7 @@ input, select, textarea {
 	display: -webkit-flex;
 	display: -ms-flex;
 	display: flex;
+	justify-content: flex-end;
 	-moz-flex-grow: 1;
 	-webkit-flex-grow: 1;
 	-ms-flex-grow: 1;
